@@ -24,3 +24,6 @@ htmlcov
 .eggs
 coverage.xml
 demo.py
+
+# Files created by OSS-Fuzz when running locally
+fuzz_*.pkg.spec
